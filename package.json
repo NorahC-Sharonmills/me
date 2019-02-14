@@ -1,0 +1,23 @@
+{
+  "name": "res",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sever.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorahC-Sharonmills/Res.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NorahC-Sharonmills/Res/issues"
+  },
+  "homepage": "https://github.com/NorahC-Sharonmills/Res#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
