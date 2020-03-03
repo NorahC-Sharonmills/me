@@ -13,5 +13,5 @@ app.listen(port, (err) => {
 });
 
 app.get("/", (request, response) => {
-    response.sendFile(path.join(__dirname + "/Main.html"));
+    response.sendFile(path.join(__dirname + "/main.html"));
 });
